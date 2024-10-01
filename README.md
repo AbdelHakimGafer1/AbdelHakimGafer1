@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @AbdelHakimGafer1
+# 👋 Hi, I’m Abdel Hakim Gafer
 
 - 👀 **I’m interested in:**  
   Building modern web applications with cutting-edge technologies. Love exploring the world of full-stack development!  
@@ -20,8 +20,8 @@
   Open-source projects, web development, or anything TypeScript/Node.js related!
 
 - 📫 **How to reach me:**
-  - Twitter: [@AbdelHakimGafer1](https://twitter.com/AbdelHakimGafer1)  
-  - LinkedIn: [Your LinkedIn](#)  
+  - Personle Website  :https://AbdelHakimGafer1.githup.io/My-Website1
+  - LinkedIn          :https://www.linkedin.com/in/abdel-hakim-gafer-2a5783330/ 
 
 - 😄 **Pronouns:** He/Him
 
