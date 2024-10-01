@@ -8,14 +8,19 @@
   - Next.js  
   - Node.js  
   - MongoDB  
-  - Docker  
+  - Drizzle ORM  
+  - Prisma ORM  
 
 - 💻 **Technologies I work with:**  
   - ⚛️ **Frontend:** TypeScript, Next.js  
   - 🚀 **Backend:** Node.js, Express  
-  - 🗄️ **Database:** MongoDB  
+  - 🗄️ **Database:** MongoDB, Drizzle ORM, Prisma  
   - 🐳 **DevOps:** Docker
 
+- 💻 **Technologies I work with:**
+      -Network and (CCNA & CCNP) R&S
+      -System  administration MCSA + AZ-900
+  
 - 💞️ **I’m looking to collaborate on:**  
   Open-source projects, web development, or anything TypeScript/Node.js related!
 
