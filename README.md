@@ -1,41 +1,39 @@
-# 👋 Hi, I’m Abdel Hakim Gafer
+👋 Hi, I’m Abdel Hakim Gafer  
 
 - 👀 **I’m interested in:**  
-  Building modern web applications with cutting-edge technologies. Love exploring the world of full-stack development!  
+  - Full-Stack Web Development  
+  - Cybersecurity & Penetration Testing  
+  - Network Engineering & System Administration  
+  - Low-Level Programming & Reverse Engineering  
+    Basically of principles of machine learning 
 
 - 🌱 **I’m currently learning:**  
-  - TypeScript  
-  - Next.js  
-  - Node.js  
-  - MongoDB  
-  - Drizzle ORM  
-  - Prisma ORM  
+  - **Web Development:** TypeScript, Next.js, Bun, Prisma, Zod  
+  - **Cybersecurity:** Metasploit, Network Penetration Testing, CTF Challenges  
+  - Rust, Go  
+  - **Database Systems:** PostgreSQL with Prisma & Drizzle ORM  
+  - **Machine Learning:** Fundamentals & Practical Applications  
 
 - 💻 **Technologies I work with:**  
-  - ⚛️ **Frontend:** TypeScript, Next.js  
-  - 🚀 **Backend:** Node.js, Express  
-  - 🗄️ **Database:** MongoDB, Drizzle ORM, Prisma  
-  - 🐳 **DevOps:** Docker
+  - **Frontend:** TypeScript, Next.js, Tailwind CSS  
+  - **Backend:** Node.js, Bun, Express, Go  
+  - **Databases:** PostgreSQL, MongoDB, Prisma, Drizzle ORM  
+  - **Networking:** CCNA & CCNP (R&S), Linux Networking  
+  - **System Administration:** MCSA, AZ-900  
+  - **Cybersecurity:** Kali Linux, Metasploit, Bash Scripting, Reverse Engineering  
+  - **DevOps & Cloud:** Docker, Linux Servers  
 
-- 💻 **Technologies I work with:**
-      -Network and (CCNA & CCNP) R&S
-      -System  administration MCSA + AZ-900
-  
 - 💞️ **I’m looking to collaborate on:**  
-  Open-source projects, web development, or anything TypeScript/Node.js related!
+  - Open-source projects in web development & cybersecurity  
+  - Building robust backend systems using Bun & Prisma  
+  - Penetration testing & network security tools  
 
-- 📫 **How to reach me:**
-  - Personle Website  :https://AbdelHakimGafer1.githup.io/My-Website1
-  - LinkedIn          :https://www.linkedin.com/in/abdel-hakim-gafer-2a5783330/ 
+- 📫 **How to reach me:**  
+  - 🌐 **Personal Website:** [AbdelHakimGafer1.github.io/My-Website1](https://AbdelHakimGafer1.github.io/My-Website1)  
+  - 🔗 **LinkedIn:** [linkedin.com/in/abdel-hakim-gafer-2a5783330/](https://www.linkedin.com/in/abdel-hakim-gafer-2a5783330/)  
+  - 📧 **Email:** (يمكنك وضع إيميلك هنا)  
 
-- 😄 **Pronouns:** He/Him
+- 😄 **Pronouns:** He/Him  
 
 - ⚡ **Fun fact:**  
-  I can spend hours debugging and still be happy about it!
-
-
-
-<!---
-AbdelHakimGafer1/AbdelHakimGafer1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  I love pushing the limits of technology—whether it's optimizing backend performance, breaking into CTF challenges, or learning a new programming language from scratch!  
