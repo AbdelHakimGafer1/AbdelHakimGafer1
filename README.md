@@ -31,7 +31,7 @@
 - 📫 **How to reach me:**  
   - 🌐 **Personal Website:** [AbdelHakimGafer1.github.io/My-Website1](https://AbdelHakimGafer1.github.io/My-Website1)  
   - 🔗 **LinkedIn:** [linkedin.com/in/abdel-hakim-gafer-2a5783330/](https://www.linkedin.com/in/abdel-hakim-gafer-2a5783330/)  
-  - 📧 **Email:** (يمكنك وضع إيميلك هنا)  
+  - 📧 **Email:** abdelhakim@gmail.com  
 
 - 😄 **Pronouns:** He/Him  
 
