@@ -1,76 +1,79 @@
 <h1 align="center">Hi 👋, I'm Abdel Hakim Gafer</h1>
-<h3 align="center">Back-End Developer | Go Enthusiast | AI/ML Learner | Data Explorer</h3>
-
-<p align="center">
-  <a href="https://abdelhakeem-tech1.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-%23FF5722.svg?&style=for-the-badge&logo=aboutdotme&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/abdel-hakim-gafer-coder">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/AbdelHakimGafer1">
-    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<h3 align="center">Full-Stack Developer | TypeScript, Go, Node.js</h3>
 
 ---
 
-## 👨‍💻 About Me
+- 🧠 I’m currently focused on **Go, TypeScript, and Node.js**
+- 🔭 I’m building scalable systems & solving real-world problems
+- 🌱 Learning AI & Machine Learning to integrate with full-stack apps
+- 👨‍💻 All of my projects are available at [My Portfolio](https://abdelhakeem-tech1.netlify.app)
+- 📫 Contact me: check portfolio or LinkedIn below
+
+---
+
+### 🧠 About Me
 
 I'm a passionate self-taught developer from Egypt 🇪🇬  
-I love building powerful backend systems, exploring data, and diving into AI/ML projects.  
-Currently learning Go and building real-world projects with it.  
-
-💡 I'm the kind of person who learns by building.  
-🔥 I've contributed to various full-stack projects and backends with MongoDB, Node.js, TypeScript, and more.  
-🚀 Currently exploring:  
-- Go (Golang) for high-performance backend systems  
-- AI/ML (Scikit-Learn, Pandas, Regression, Classification)  
-- Real-time applications with WebSocket  
-- TempMail CLI, Payment APIs (ISO 8583), Booking Systems
+I love backend development, clean APIs, and real-world problem solving.  
+I enjoy mixing **Go** + **MongoDB** for performance, and **TypeScript** for structure.  
+Currently pushing hard into AI/ML, building tools like TempMail CLI and FireTracker with NASA data 🔥
 
 ---
 
-## 🛠️ Skills
+### 🛠️ Projects I'm Building
 
-- 🧠 **Programming Languages**: Go, TypeScript, JavaScript, Python, C#, SQL  
-- 🔧 **Frameworks/Tools**: Node.js, Express, Gin, React, Redux, Next.js  
-- 📦 **Databases**: MongoDB, PostgreSQL, Firebase  
-- 📊 **Data & AI Tools**: Pandas, Scikit-learn, Matplotlib, Power BI  
-- 🐳 **DevOps & Others**: Docker, Git, GitHub Actions  
-- 🧪 **Testing**: Postman, Unit Testing (Go / JS)  
-- ☁️ **Deployment**: Vercel, Netlify, Render, Railway
-
----
-
-## 🧠 Current Projects
-
-- 🔥 **FireTracker**: Real-time wildfire data analysis using NASA API (with Go + Pandas)
-- 🧪 **TempMail CLI**: Build-your-own temporary email system (with MongoDB)
-- 💰 **Mini Payment System**: Simulating ISO 8583 message processing
-- 📅 **Event Booking System**: AI-supported booking platform (Go + React)
-- 📈 **Titanic ML Model**: Improving model accuracy & recall with full analysis
+- 🔥 **FireTracker** — NASA API + Go + Pandas for wildfire monitoring  
+- 📧 **TempMail CLI** — Temp email service in CLI with MongoDB  
+- 💳 **Mini Payment System** — Simulating ISO 8583 Protocol  
+- 📅 **Event Booking System** — Booking app (Go + React + AI Support)  
+- 🚢 **Dockerized E-commerce** — MERN Stack with full CI/CD  
+- 📈 **Titanic ML Model** — Classification & recall optimization using Scikit-learn  
+- 🧠 **Convex + AI** — Building real-time backend apps with Convex & ML
 
 ---
 
-## 📊 GitHub Stats
+### 🧰 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelHakimGafer1&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelHakimGafer1&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbdelHakimGafer1&theme=radical" alt="Streak Stats" />
-</p>
-
----
-
-## 📫 Reach Me
-
-- 🌍 Portfolio: [abdelhakeem-tech1.netlify.app](https://abdelhakeem-tech1.netlify.app)
-- 💼 LinkedIn: [linkedin.com/in/abdel-hakim-gafer-coder](https://linkedin.com/in/abdel-hakim-gafer-coder)
-- 📧 Email: You can find it in my portfolio 🔐
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-### 😎 Motto:  
-> "Learning never stops. كل مشروع بكتبه هو خطوة ناحية الحلم الكبير."
+### 🧩 Tools I Use
 
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+---
+
+### 🏆 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdelHakimGafer1&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelHakimGafer1&langs_count=10&layout=compact&theme=tokyonight&hide=html,css)
+
+---
+
+### 🥇 GitHub Rank Badge
+
+![Level Badge](https://img.shields.io/badge/Level-S%2B-ff69b4?style=for-the-badge&logo=github)
+
+---
+
+### 📫 Reach Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-abdelhakeem--tech1.netlify.app-blue?style=flat-square&logo=netlify)](https://abdelhakeem-tech1.netlify.app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdel%20Hakim%20Gafer-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdel-hakim-gafer-coder)  
+[![GitHub](https://img.shields.io/badge/GitHub-AbdelHakimGafer1-black?style=flat-square&logo=github)](https://github.com/AbdelHakimGafer1)
+
+---
+
+### 🧠 Motto  
+> "Keep pushing, keep building. Learning is your real superpower ⚡"
