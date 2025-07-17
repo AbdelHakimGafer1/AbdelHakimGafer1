@@ -1,79 +1,129 @@
-<h1 align="center">Hi 👋, I'm Abdel Hakim Gafer</h1>
-<h3 align="center">Full-Stack Developer | TypeScript, Go, Node.js</h3>
+<h1 align="center">
+  Hi 👋, I'm Abdel Hakim Gafer
+</h1>
+
+<h3 align="center">
+  🧠 Full-Stack Developer | Go + TypeScript + Node.js | AI-Enhanced Systems Builder
+</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Building+Real+Systems+%F0%9F%94%AA;Go+%7C+TypeScript+%7C+Next.js;Fiber+%7C+Gin+%7C+Node.js;AI+%2B+ML+Integration+Dev;Learning+Never+Stops+%F0%9F%94%8A" alt="Typing SVG" />
+</p>
 
 ---
 
-- 🧠 I’m currently focused on **Go, TypeScript, and Node.js**
-- 🔭 I’m building scalable systems & solving real-world problems
-- 🌱 Learning AI & Machine Learning to integrate with full-stack apps
-- 👨‍💻 All of my projects are available at [My Portfolio](https://abdelhakeem-tech1.netlify.app)
-- 📫 Contact me: check portfolio or LinkedIn below
+## 🔥 GitHub Rank & Activity
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelHakimGafer1&theme=tokyonight&margin-w=10&margin-h=15&rank=SS,A,AAA" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GitHub%20State-S%2B-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=2f2f2f&label=State" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AbdelHakimGafer1/AbdelHakimGafer1/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
+</p>
 
 ---
 
-### 🧠 About Me
+## 👨‍💻 About Me
 
-I'm a passionate self-taught developer from Egypt 🇪🇬  
-I love backend development, clean APIs, and real-world problem solving.  
-I enjoy mixing **Go** + **MongoDB** for performance, and **TypeScript** for structure.  
-Currently pushing hard into AI/ML, building tools like TempMail CLI and FireTracker with NASA data 🔥
+I'm a **self-taught full-stack developer** from Egypt 🇪🇬  
+Focused on **building real-world, AI-enhanced systems** using:
+- 🚀 Go with Fiber/Gin for high-performance backends
+- 🌐 Next.js, React, Tailwind for modern frontends
+- 📊 MongoDB/PostgreSQL for flexible data systems
+- 🤖 AI/ML for smarter applications
 
----
-
-### 🛠️ Projects I'm Building
-
-- 🔥 **FireTracker** — NASA API + Go + Pandas for wildfire monitoring  
-- 📧 **TempMail CLI** — Temp email service in CLI with MongoDB  
-- 💳 **Mini Payment System** — Simulating ISO 8583 Protocol  
-- 📅 **Event Booking System** — Booking app (Go + React + AI Support)  
-- 🚢 **Dockerized E-commerce** — MERN Stack with full CI/CD  
-- 📈 **Titanic ML Model** — Classification & recall optimization using Scikit-learn  
-- 🧠 **Convex + AI** — Building real-time backend apps with Convex & ML
+🧠 Participated in:
+- ✅ **NASA Space Apps Challenge** – Built `FireTracker`
+- 🏆 **Areeb Tech Finalist 2025** – Built AI Booking System (Go + React)
 
 ---
 
-### 🧰 Tech Stack
+## 🚀 Projects Showcase
 
+| 🛠️ Project | 📋 Description |
+|------------|----------------|
+| 🔥 [FireTracker](https://github.com/AbdelHakimGafer1/FireTracker) | Wildfire monitor using NASA FIRMS + Go + Pandas |
+| 📧 [TempMail CLI](https://github.com/AbdelHakimGafer1/TempMail-CLI) | CLI TempMail using MongoDB |
+| 💳 ISO 8583 Simulator | Simulates secure financial messaging |
+| 📅 [Areeb Booking](https://github.com/AbdelHakimGafer1/EventBookingSystem) | AI-based event system built with Go + React |
+| 🌐 Convex AI Realtime | Realtime backend + AI pipeline |
+| 🛒 Docker MERN Store | CI/CD enabled e-commerce system |
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧱 Backend
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-2D2D2D?style=for-the-badge&logo=fiber&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### 💻 Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### 🛢️ Database & AI
 ![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue)
+
+### 🧰 Tools & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ---
 
-### 🧩 Tools I Use
+## 📈 GitHub Stats
 
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelHakimGafer1&show_icons=true&theme=tokyonight&count_private=true" />
+</p>
 
----
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelHakimGafer1&theme=tokyonight&hide_border=true" />
+</p>
 
-### 🏆 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelHakimGafer1&layout=compact&theme=tokyonight&hide=css,html" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdelHakimGafer1&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelHakimGafer1&langs_count=10&layout=compact&theme=tokyonight&hide=html,css)
-
----
-
-### 🥇 GitHub Rank Badge
-
-![Level Badge](https://img.shields.io/badge/Level-S%2B-ff69b4?style=for-the-badge&logo=github)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdelHakimGafer1&theme=github-compact&custom_title=🔥+My+GitHub+Activity" />
+</p>
 
 ---
 
-### 📫 Reach Me
+## 🎓 Certifications
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-abdelhakeem--tech1.netlify.app-blue?style=flat-square&logo=netlify)](https://abdelhakeem-tech1.netlify.app)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abdel%20Hakim%20Gafer-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdel-hakim-gafer-coder)  
-[![GitHub](https://img.shields.io/badge/GitHub-AbdelHakimGafer1-black?style=flat-square&logo=github)](https://github.com/AbdelHakimGafer1)
+- 🏆 **Security Matrix Internship 2025** – Backend + AI + Systems
+- 🧠 **NASA Space Apps** – FireTracker wildfire system
+- 🏁 **Areeb Tech Finalist** – Full-Stack AI Booking System
+- 📘 **ML with Python** – Feature engineering & classifiers
 
 ---
 
-### 🧠 Motto  
-> "Keep pushing, keep building. Learning is your real superpower ⚡"
+## 📬 Contact Me
+
+[![🌍 Portfolio](https://img.shields.io/badge/Portfolio-abdelhakeem--tech1.netlify.app-blue?style=flat-square&logo=netlify)](https://abdelhakeem-tech1.netlify.app)  
+[![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Abdel%20Hakim%20Gafer-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdel-hakim-gafer-coder)  
+[![💻 GitHub](https://img.shields.io/badge/GitHub-AbdelHakimGafer1-black?style=flat-square&logo=github)](https://github.com/AbdelHakimGafer1)
+
+---
+
+## 🧠 Dev Motto
+
+> “Keep pushing. Keep building. Keep learning. That’s your real power ⚡”
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+</p>
