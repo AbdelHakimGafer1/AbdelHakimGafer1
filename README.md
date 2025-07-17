@@ -12,83 +12,45 @@
 
 ---
 
-## 🔥 GitHub Rank & Activity
+## 🧠 GitHub Rank: <span style="color: #a259ff">S (Strong)</span>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdelHakimGafer1&theme=tokyonight&margin-w=10&margin-h=15&rank=SS,A,AAA" />
+  <img src="https://img.shields.io/badge/GitHub%20State-S%20%2B-purple?style=for-the-badge&logo=github&logoColor=white&label=Real%20Rank" />
 </p>
 
+> ✅ Based on real contribution streaks, project activity, and private repos.  
+> 💪 You're actively pushing high-quality Go/TypeScript projects with long streaks.
+
+---
+
+## 🏆 Trophies & Achievements
+
 <p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20State-S%2B-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=2f2f2f&label=State" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdelHakimGafer1&theme=tokyonight&margin-w=10&margin-h=15&row=1" />
 </p>
+
+---
+
+## 🐍 Contribution Snake & Density
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AbdelHakimGafer1/AbdelHakimGafer1/output/github-contribution-grid-snake.svg" alt="GitHub Snake Animation" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-I'm a **self-taught full-stack developer** from Egypt 🇪🇬  
-Focused on **building real-world, AI-enhanced systems** using:
-- 🚀 Go with Fiber/Gin for high-performance backends
-- 🌐 Next.js, React, Tailwind for modern frontends
-- 📊 MongoDB/PostgreSQL for flexible data systems
-- 🤖 AI/ML for smarter applications
-
-🧠 Participated in:
-- ✅ **NASA Space Apps Challenge** – Built `FireTracker`
-- 🏆 **Areeb Tech Finalist 2025** – Built AI Booking System (Go + React)
+<p align="center">
+  <img src="https://ghchart.rshah.org/2196f3/AbdelHakimGafer1" alt="GitHub Contributions" />
+</p>
 
 ---
 
-## 🚀 Projects Showcase
-
-| 🛠️ Project | 📋 Description |
-|------------|----------------|
-| 🔥 [FireTracker](https://github.com/AbdelHakimGafer1/FireTracker) | Wildfire monitor using NASA FIRMS + Go + Pandas |
-| 📧 [TempMail CLI](https://github.com/AbdelHakimGafer1/TempMail-CLI) | CLI TempMail using MongoDB |
-| 💳 ISO 8583 Simulator | Simulates secure financial messaging |
-| 📅 [Areeb Booking](https://github.com/AbdelHakimGafer1/EventBookingSystem) | AI-based event system built with Go + React |
-| 🌐 Convex AI Realtime | Realtime backend + AI pipeline |
-| 🛒 Docker MERN Store | CI/CD enabled e-commerce system |
-
----
-
-## 🛠️ Tech Stack
-
-### 🧱 Backend
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Gin](https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=go&logoColor=white)
-![Fiber](https://img.shields.io/badge/Fiber-2D2D2D?style=for-the-badge&logo=fiber&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### 💻 Frontend
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-### 🛢️ Database & AI
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue)
-
-### 🧰 Tools & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
----
-
-## 📈 GitHub Stats
+## 📊 GitHub Stats (Real Data)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdelHakimGafer1&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdelHakimGafer1&show_icons=true&theme=tokyonight&count_private=true&rank_icon=github" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelHakimGafer1&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdelHakimGafer1&theme=tokyonight&hide_border=false" />
 </p>
 
 <p align="center">
@@ -101,16 +63,66 @@ Focused on **building real-world, AI-enhanced systems** using:
 
 ---
 
-## 🎓 Certifications
+## 👨‍💻 Who Am I?
 
-- 🏆 **Security Matrix Internship 2025** – Backend + AI + Systems
-- 🧠 **NASA Space Apps** – FireTracker wildfire system
-- 🏁 **Areeb Tech Finalist** – Full-Stack AI Booking System
-- 📘 **ML with Python** – Feature engineering & classifiers
+I'm a **self-taught full-stack developer** from Egypt 🇪🇬 focused on real-world, high-performance systems.
+
+### 🔨 Tech Stack:
+- 🧱 Backend: Go (Fiber, Gin), Node.js
+- 🌐 Frontend: Next.js, React, TailwindCSS
+- 🧠 AI/ML: Python, Pandas, Classification systems
+- 🛢️ DBs: MongoDB, PostgreSQL
+- ☁️ Cloud: Vercel, Netlify, Docker, GitHub Actions
 
 ---
 
-## 📬 Contact Me
+## 🏁 Competitions
+
+- 🚀 **NASA Space Apps Challenge** → `FireTracker` (Go + Pandas)
+- 🏆 **Areeb Tech Finalist 2025** → AI Booking System (Go + React)
+- 🔐 **Security Matrix Internship** → AI + Backend + Systems
+
+---
+
+## 🚀 Featured Projects
+
+| 🛠️ Project | 📋 Description |
+|------------|----------------|
+| 🔥 [FireTracker](https://github.com/AbdelHakimGafer1/FireTracker) | Wildfire monitor using NASA FIRMS + Go + Pandas |
+| 📧 [TempMail CLI](https://github.com/AbdelHakimGafer1/TempMail-CLI) | CLI-based TempMail system using MongoDB |
+| 💳 ISO 8583 Simulator | Financial messaging system simulation |
+| 📅 [Areeb Booking](https://github.com/AbdelHakimGafer1/EventBookingSystem) | Full-stack AI event system (Go + React) |
+| 🌐 Convex AI Realtime | AI + Realtime backend architecture |
+| 🛒 Docker MERN Store | CI/CD e-commerce platform with Docker |
+
+---
+
+## 🛠️ Tech Stack
+
+### Backend
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-black?style=for-the-badge&logo=go&logoColor=white)
+![Fiber](https://img.shields.io/badge/Fiber-2D2D2D?style=for-the-badge&logo=fiber&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Database & AI
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkblue)
+
+### Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+---
+
+## 📬 Connect with Me
 
 [![🌍 Portfolio](https://img.shields.io/badge/Portfolio-abdelhakeem--tech1.netlify.app-blue?style=flat-square&logo=netlify)](https://abdelhakeem-tech1.netlify.app)  
 [![💼 LinkedIn](https://img.shields.io/badge/LinkedIn-Abdel%20Hakim%20Gafer-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/abdel-hakim-gafer-coder)  
@@ -121,8 +133,6 @@ Focused on **building real-world, AI-enhanced systems** using:
 ## 🧠 Dev Motto
 
 > “Keep pushing. Keep building. Keep learning. That’s your real power ⚡”
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
