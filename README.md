@@ -5,6 +5,13 @@
 <h3 align="center">
   🧠 Full-Stack Developer | Go + TypeScript + Node.js | AI-Enhanced Systems Builder
 </h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" width="500" />
+</p>
+
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=460&lines=Building+Real+Systems+%F0%9F%94%AA;Go+%7C+TypeScript+%7C+Next.js;Fiber+%7C+Gin+%7C+Node.js;AI+%2B+ML+Integration+Dev;Learning+Never+Stops+%F0%9F%94%8A" alt="Typing SVG" />
